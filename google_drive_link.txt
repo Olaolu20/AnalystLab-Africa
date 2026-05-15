@@ -1,0 +1,10 @@
+Ecommerce Analysis Project
+
+Files
+ecommerce_analysis.ipynb
+Ecommerce_Analysis_Report.pdf
+
+Cleaned Dataset
+The cleaned dataset is too large for GitHub upload.
+Google Drive link:
+https://drive.google.com/drive/folders/1E-2nbZBDm7ncn6ZZD8d1Vj4u3u4I10Nh?usp=sharing
